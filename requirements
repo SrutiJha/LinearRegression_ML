@@ -1,0 +1,4 @@
+## Installation
+Run the following command to install dependencies:
+```bash
+pip install numpy pandas matplotlib
